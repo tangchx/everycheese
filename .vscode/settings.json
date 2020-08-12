@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "F:\\Documents\\py_envs\\everycheese\\python.exe",
+    "python.formatting.provider": "black"
+}
